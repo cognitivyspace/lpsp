@@ -1,0 +1,31 @@
+{
+    "name": "cognitivyspace/lpsp",
+    "description": "Service provider for laravel to allow for multiple implementations",
+    "type": "library",
+    "keywords": ["laravel","lumen"],
+    "homepage": "https://github.com/cognitivyspace/lpsp",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Obitao\\LPSP\\": "src/cognitivyspace/lpsp/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cognitivy Space",
+            "email": "suporte@cognitivy.space"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {},
+    "require-dev": {
+        "laravel/laravel": "^5.5",
+        "laravel/lumen": "^5.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
