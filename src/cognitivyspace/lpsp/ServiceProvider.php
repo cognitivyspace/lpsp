@@ -1,6 +1,6 @@
 <?php
 
-namespace Obitao\LPSP;
+namespace CognitivySpace\LPSP;
 
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;

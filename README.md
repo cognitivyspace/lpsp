@@ -8,7 +8,7 @@ Improved service provider functions for handling cross application code.
 
 <?php
 
-namespace Obitao\LPSP;
+namespace CognitivySpace\LPSP;
 
 use Illuminate\Foundation\AliasLoader;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
